@@ -2,7 +2,7 @@
 Title: Uber Data Analytics Project (Fact and Dimension Tables)
 
 Description:<br>
-The Uber Data Analytics Project, focusing exclusively on fact and dimension tables, is a specialized initiative designed to analyze structured data pertaining to specific attributes for further check fact_table
+The Uber Data Analytics Project, focusing exclusively on fact and dimension tables, is a specialized initiative designed to analyze structured data pertaining to specific attributes for further check data_model.jpg file present in reposotry
 
 Project Goals:<br>
 Data Exploration: The primary goal of this project is to explore, clean, and analyze the structured data within the specified attributes. We aim to uncover valuable insights and patterns hidden within this dataset.
