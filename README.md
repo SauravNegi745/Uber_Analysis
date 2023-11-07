@@ -7,12 +7,14 @@ The Uber Data Analytics Project, focusing exclusively on fact and dimension tabl
 Project Goals:<br>
 Data Exploration: The primary goal of this project is to explore, clean, and analyze the structured data within the specified attributes. We aim to uncover valuable insights and patterns hidden within this dataset.
 
+
 Dataset Used:<br>
 TLC Trip Record Data Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts.
 More info about dataset can be found here:
 
 Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page <br>
 Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf <br>
+
 
 
 Repository Contents:<br>
