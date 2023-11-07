@@ -19,9 +19,9 @@ Repository Contents:<br>
 Contribution Guidelines: If you wish to contribute to this project or provide feedback, please consult our guidelines for collaboration.
 
 How to Use:<br>
-Clone the repository to your local machine.
-Install the necessary dependencies mentioned in the README file.
-Explore the Jupyter notebooks and scripts to kickstart your data analysis process focused on the fact and dimension tables.
-Contribute to the project by sharing your insights, code enhancements, or data-related contributions.
-The Uber Data Analytics Project on GitHub focuses exclusively on the analysis of fact and dimension tables, providing a streamlined and specialized approach to uncovering insights within structured data. We encourage data enthusiasts, analysts, and data scientists to join us in our mission to extract valuable knowledge from Uber's ride-sharing data.
+Clone the repository to your local machine.<br>
+Explore the Jupyter notebooks and scripts to kickstart your data analysis process focused on the fact and dimension tables.<br>
+Contribute to the project by sharing your insights, code enhancements, or data-related contributions.<br>
+The Uber Data Analytics Project on GitHub focuses exclusively on the analysis of fact and dimension tables, providing a streamlined and specialized approach to uncovering insights <br>
+within structured data. We encourage data enthusiasts, analysts, and data scientists to join us in our mission to extract valuable knowledge from Uber's ride-sharing data.<br>
 
